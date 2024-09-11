@@ -1,6 +1,6 @@
 FNF Sports 
 
-This is an e-commerce website project I developed to practice and learn JavaScript, PHP, JSON, and MySQL.
+This is an e-commerce website project I developed during my second year of undergrad to practice and learn JavaScript, PHP, JSON, HTML5 and MySQL.
 
 What I Worked On: 
 
