@@ -1,0 +1,67 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #cde0e7;
+    color: black;
+  }
+
+
+header {
+    background-color: #2b000b;
+    color: #87CEEB;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+nav ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+nav li {
+    margin-right: 20px;
+  }
+  
+nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+div {
+    margin-top: 40px;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+}
+
+  form{
+    margin-left: 5%;
+    margin-right: 5%;
+    color: rgb(0, 0, 0);
+    font-size: x-large;
+}
+
+button{
+    background-color: #410112;
+    color: #87CEEB;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: large;
+}
+
+button:hover{
+    opacity: 0.7;
+}
+
+footer {
+    background-color: #1f1f1f;
+    color: #87CEEB;
+    text-align: center;
+    padding: 10px 20px;
+  }

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FNF Sports and Fashion</title>
+  <link rel="stylesheet" href="fnf_aboutus.css">
+</head>
+<body>
+  <header>
+    <img src="logo-no-background.png" class="logo" height="55px">
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="fnf_shop.html">Shop</a></li>
+        <li><a href="fnf_aboutus.html">About Us</a></li>
+        <li><a href="fnf_request.html">Request merch</a></li>
+        <li><a href="login.php">Log in</a></li>
+        <li><a href="signup.php">Sign up</a></li>
+        
+      </ul>
+    </nav>
+  </header>
+<div class="bigdiv">
+    <div>
+  <h2>New merchandise request</h2>
+  </div>
+
+  <form action="process_request.php" method="POST">
+    <h4>Let us know what merch you want us to have in store next:</h4>
+    <label for="name"><b>Your name</b></label><br>
+    <input type="text" placeholder="Full name" name="name" required>
+    <br>
+    <label for="email"><b>Email</b></label><br>
+    <input type="email" placeholder="Your email address" name="email">
+    <br>
+    <label for="msg"><b>Names of the merch</b></label><br>
+    <textarea placeholder="(jerseys, scarfs, hoodies, T-shirts etc.)" name="msg" rows="3" cols="50"></textarea>
+    <br><br>
+    <button type="submit"><b>Submit</b></button><br><br>
+  </form>
+  </div>
+  <footer>
+    <p>&copy; 2023 FNF Sports and Fashion</p>
+  </footer>
+
+</body>
+</html>
