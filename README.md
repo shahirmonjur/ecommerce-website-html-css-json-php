@@ -5,6 +5,7 @@ This is an e-commerce website project I developed to practice and learn JavaScri
 What I Worked On: 
 
   JavaScript: 
+  
   I used JavaScript to make the website interactive. For example: Handling the "Place Order" button when users want to order something or making parts of the page update without needing a full page refresh.
   
   PHP: 
