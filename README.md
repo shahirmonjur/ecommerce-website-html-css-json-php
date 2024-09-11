@@ -20,3 +20,15 @@ What I Worked On:
   JSON: 
   
   I used JSON to send and receive data between the client (JavaScript) and the server (PHP). For example, when you place an order, the data is sent to the server in JSON format.
+  
+HTML:
+
+HTML is used to build the structure of the website. Some things I used it for: Creating the layout of the website, like the header, main content, and footer.
+  Organizing product listings with images, names, and prices.
+  Setting up forms for login, signup, and ordering products.
+
+CSS:
+
+CSS is used to style the website and make it look better. For example: Making the website responsive so it looks good on different screen sizes.
+  Styling the buttons, fonts, and colors to give it a cleaner look.
+  Arranging the product listings into grids so they are easier to browse.
